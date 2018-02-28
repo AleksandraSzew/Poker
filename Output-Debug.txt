@@ -1,0 +1,9 @@
+﻿'Poker1.exe': Loaded 'C:\Users\as\Desktop\ejej\Debug\Poker1.exe', Symbols loaded.
+'Poker1.exe': Loaded 'C:\Windows\System32\ntdll.dll', Cannot find or open the PDB file
+'Poker1.exe': Loaded 'C:\Windows\System32\kernel32.dll', Cannot find or open the PDB file
+'Poker1.exe': Loaded 'C:\Windows\System32\KernelBase.dll', Cannot find or open the PDB file
+'Poker1.exe': Loaded 'C:\Windows\System32\msvcp100d.dll', Symbols loaded.
+'Poker1.exe': Loaded 'C:\Windows\System32\msvcr100d.dll', Symbols loaded.
+'Poker1.exe': Loaded 'C:\Windows\System32\apphelp.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x1754) has exited with code -1073741510 (0xc000013a).
+The program '[4508] Poker1.exe: Native' has exited with code -1073741510 (0xc000013a).
